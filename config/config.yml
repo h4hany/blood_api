@@ -1,0 +1,9 @@
+
+development:
+  localhost: 'http://0.0.0.0:3000'
+  sms_account_sid: 'AC962bf3b77114cb3c5508f7be21d5d860'
+  sms_auth_token: '4e60f9c5324825dfb09d60b4ed2b393c'
+
+production:
+  localhost: 'http://0.0.0.0:3000'
+
